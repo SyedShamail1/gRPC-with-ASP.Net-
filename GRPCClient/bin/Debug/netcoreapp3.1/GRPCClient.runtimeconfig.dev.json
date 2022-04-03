@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\SpurSol-Shamail\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\SpurSol-Shamail\\.nuget\\packages"
+    ]
+  }
+}
